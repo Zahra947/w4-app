@@ -45,12 +45,12 @@ export default function Weather() {
                 </div>
                 <div className="row degree" id="temperature"></div>
                 <div className="row degree">
-                  <a href="#" id="celsius-link" className="active">
+                  <a href="/" id="celsius-link" className="active">
                     °C
                   </a>
                 </div>
                 <div className="row degree">
-                  <a href="#" id="fahrenheit-link">
+                  <a href="/" id="fahrenheit-link">
                     °F
                   </a>
                 </div>
