@@ -68,7 +68,7 @@ export default function Weather() {
             </div>
           </div>
           <div className="bottom-line">
-            <a href="https://github.com/Zahra947/weather-app" target="-blank">
+            <a href="https://github.com/Zahra947/w4-app" target="-blank">
               Open-Source Code
             </a>
             by Zahra Rabiei
